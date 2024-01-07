@@ -548,7 +548,6 @@ form input, form textarea{
 .copyright{
     width: 100%;
     text-align: center;
-    border-top: 2px solid var(--primary);
     padding: 40px 0;
     background: var(--background);
     font-weight: 300;
